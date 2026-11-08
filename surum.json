@@ -1,6 +1,6 @@
 {
-  "surum": "1.3.0",
-  "notlar": "Otomatik güncelleme, yedek hatalarının hata raporuna düşmesi ve sürüm bildirim maili eklendi.",
-  "adres": "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.0/BagisDagitim-Kurulum-1.3.0.exe",
-  "sha256": "4646BED8E5BEA90138A7CD5029401C69E284AA56273DD5A9278561D8B0DF5671"
+  "surum": "1.3.1",
+  "notlar": "Güncelleme akışı deneme sürümü.",
+  "adres": "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.1/BagisDagitim-Kurulum-1.3.1.exe",
+  "sha256": "FDD647FCDB0DD096D430E1428314FF29D1B611B81A025AB30E307AE191889D42"
 }
