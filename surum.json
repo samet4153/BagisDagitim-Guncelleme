@@ -1,6 +1,6 @@
 {
-    "surum":  "1.3.2",
-    "notlar":  "• Uygulama açılışta yeni sürümü kendisi denetler; güncelleme penceresi indirme ilerlemesini gösterir.\n• SQL yedeği alınamazsa hata artık yöneticiye e-posta ile bildirilir.\n• Yedek ekranındaki e-posta hatası mesajı, ne yapılması gerektiğini açıkça söyler.\n• Yeni sürüm bir bilgisayarda ilk kez açıldığında yöneticiye bilgi e-postası gider.\n• Güncelleme sırasında \"dosya başka bir işlem tarafından kullanılıyor\" hatası giderildi.",
-    "adres":  "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.2/BagisDagitim-Kurulum-1.3.2.exe",
-    "sha256":  "0B09F8943266C3C25B0B85DA1A69C800DA3409249849A9EBD2502650D473BD13"
+    "surum":  "1.3.3",
+    "notlar":  "• Güncelleme penceresi deneme sürümü: yeni sürüm kutusu, indirme ilerlemesi ve kurulum adımları.",
+    "adres":  "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.3/BagisDagitim-Kurulum-1.3.3.exe",
+    "sha256":  "06B6E251FF5612C4E4FEC40156429FA52FB7D81E80656F5F73A64502C5A68B17"
 }
