@@ -1,6 +1,6 @@
 {
     "surum":  "1.3.4",
-    "notlar":  "• Güncelleme tamamlanınca uygulama kendiliğinden yeniden açılır.\n• İndirilen kurulum dosyası güncellemeden sonra bilgisayardan otomatik silinir.",
+    "notlar":  "• Güncelleme tamamlanınca uygulama kendiliğinden yeniden açılır.\n• İndirilen kurulum dosyası güncellemeden sonra bilgisayardan otomatik silinir.\n• Giriş ekranında sürüm numarasına tıklayınca sürümlerde nelerin değiştiğini görebilirsiniz.",
     "adres":  "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.4/BagisDagitim-Kurulum-1.3.4.exe",
-    "sha256":  "0B618B5B48881AAFF61D737C4AFA7D20E335478334F36AF618E514113F2B5196"
+    "sha256":  "CA9ACF76B49AD8162B4C69BED74C816E74D626C50D05002660D54F4C2AD8F94B"
 }
