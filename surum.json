@@ -1,6 +1,6 @@
 {
-    "surum":  "1.3.8",
-    "notlar":  "• Bağış Dağıtımı: kart okutulunca ve bağış kaydedilince sayfanın ortasında, arkası karartılmış bir bildirim açılır; kime ne kadar ne verildiği büyük yazılır ve kısa süre sonra kendiliğinden kapanır (tıklayınca ya da Esc ile hemen kapanır).\n• Bildirimin ekranda kalma süreleri (başarı ve hata için ayrı) Kart Okuyucu Ayarları penceresinden değiştirilebilir.\n• Ana sayfadaki \"Yarın verilecek ekmek\" kartı açık ve koyu temada ekmek kabuğu (amber) renginde gösterilir.\n• Bağış listesinde miktar kutusu ve hücre ortalandı.",
-    "adres":  "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.8/BagisDagitim-Kurulum-1.3.8.exe",
-    "sha256":  "1F030C328DB96D2A7279FB044623C5447E7F029855C00EC8680C887EC3F9EAC6"
+    "surum":  "1.3.9",
+    "notlar":  "• Güncelleme zorunlu hale geldi: yeni sürüm bulunduğunda \"güncellenmesi gerekiyor\" ekranı açılır, kısa geri sayımdan sonra güncelleme kendiliğinden indirilir, kurulur ve uygulama yeniden açılır.",
+    "adres":  "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.9/BagisDagitim-Kurulum-1.3.9.exe",
+    "sha256":  "A14D29FDAEE03646122DB03414D52E081692F76875D780E2281D041745F3140F"
 }
