@@ -1,6 +1,6 @@
 {
-    "surum":  "1.3.9",
-    "notlar":  "• Güncelleme zorunlu hale geldi: yeni sürüm bulunduğunda \"güncellenmesi gerekiyor\" ekranı açılır, kısa geri sayımdan sonra güncelleme kendiliğinden indirilir, kurulur ve uygulama yeniden açılır.",
-    "adres":  "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.9/BagisDagitim-Kurulum-1.3.9.exe",
-    "sha256":  "A14D29FDAEE03646122DB03414D52E081692F76875D780E2281D041745F3140F"
+    "surum":  "1.3.10",
+    "notlar":  "• Kişiler: telefon numarası (538) 552-53-36 biçiminde maskeli girilir ve bu biçimde kaydedilir; listede de aynı biçimde görünür.\n• Kişiler listesinde birden fazla hücre seçilip kopyalanabilir.\n• Bağış Dağıtım: form başlıkları yarı kalın yazılır ve altlarında ince çizgi bulunur.",
+    "adres":  "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.10/BagisDagitim-Kurulum-1.3.10.exe",
+    "sha256":  "134E5C63F938E6D8F3EF0D44D99A14EC80B9AED28DD9E575CF8B544BAB4BD013"
 }
