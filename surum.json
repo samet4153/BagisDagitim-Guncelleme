@@ -1,6 +1,6 @@
 {
-    "surum":  "1.3.6",
-    "notlar":  "• Sürüm geçmişi penceresinde tarih biçimi seçilebilir (gg.aa.yyyy, yyyy-aa-gg, gg/aa/yyyy, gün ay yıl); seçiminiz hatırlanır.\n• Sürüm geçmişindeki yazılar seçilip kopyalanabilir.",
-    "adres":  "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.6/BagisDagitim-Kurulum-1.3.6.exe",
-    "sha256":  "5555E1F526E3BDB85FEC7F1B7D94125CAEEEDDC2EF7448215DF69E43736053C6"
+    "surum":  "1.3.7",
+    "notlar":  "• Giriş ekranında sürüm numarasına tıklayınca açılan sürüm geçmişi penceresinin hata vermesi giderildi.",
+    "adres":  "https://github.com/samet4153/BagisDagitim-Guncelleme/releases/download/v1.3.7/BagisDagitim-Kurulum-1.3.7.exe",
+    "sha256":  "3F5C537B09D9BA120747ECF14CA6F4A4BCD4A4DD1C7F0712FA14574BFACF4D4E"
 }
